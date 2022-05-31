@@ -6,6 +6,8 @@ A super fast download manager for chrome!!!
 
 ![preview.jpg](preview.jpg)
 
+玩球了  怎么删除
+
 ## Chrome Store
 [https://chrome.google.com/webstore/detail/thunder-download-manager/nllgadppmkoamdlocamdnmimkehhojai](https://chrome.google.com/webstore/detail/thunder-download-manager/nllgadppmkoamdlocamdnmimkehhojai)
 ## Download Outside Chrome Store
